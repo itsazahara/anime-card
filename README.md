@@ -18,3 +18,6 @@
 - 🎨 Neon gradients for character names
 - 🖤 Subtle shadowing for depth
 - ✨ Elegant and futuristic anime aesthetic
+
+## Preview
+
