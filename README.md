@@ -2,7 +2,7 @@
 ✨ Neon anime character cards with hover quotes.
 
 ## Features
-- 🎨 Built with pure HTML and CSS
+- 🎨 Built with `HTML` and `CSS`
 - ✨ Cards reveal quotes on hover
 - 🌈 Neon-inspired gradients and glow effects
 - 🖤 Clean and modern design
@@ -18,6 +18,3 @@
 - 🎨 Neon gradients for character names
 - 🖤 Subtle shadowing for depth
 - ✨ Elegant and futuristic anime aesthetic
-
-## Preview
-
